@@ -9,3 +9,6 @@ https://github.com/YouROK/TorrServer
 
 <h2>Usage Example</h2>
 <pre><code class="language-bash">$ docker run -d -p 8090:8090   ash16888/ts </code></pre>
+
+In accs.db by default use <p>
+user:password <p>
